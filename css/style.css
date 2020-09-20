@@ -36,8 +36,8 @@ h2 {
 
 .middle-container {
   position: relative;
-  margin: 3vw 0;
-  background-color: white;
+  background-color: #cbf1f5;
+  padding: 4vw;
 }
 .intro {
   width: 29%;
@@ -66,7 +66,7 @@ hr {
 }
 
 .bottom-container {
-  background-color: #71c9ce;
+  background-color: #a6e3e9;
   padding: 3vw 0;
 }
 
