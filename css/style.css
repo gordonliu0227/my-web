@@ -9,6 +9,9 @@ body {
   padding-top: 5vw;
   background-color: #e3fdfd;
 }
+p {
+  line-height:2;
+}
 h1 {
   font-family: "Sacramento", cursive;
   color: #66bfbf;
